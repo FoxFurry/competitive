@@ -1,0 +1,1 @@
+## This repo contains my submissions for competitive problems from different platforms (mainly kattis, uva and codeforces)
